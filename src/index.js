@@ -42,6 +42,7 @@ ReactDOM.render(
     <p><h3>currentDate is={currentDate}</h3></p>
     </>,
     document.getElementById("root"));*/
+   
     import React from "react";
     import ReactDom from "react-dom/client";
     const myElement=<h1>hello nitish kumar nandi</h1>
